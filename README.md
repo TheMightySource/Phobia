@@ -1,3 +1,3 @@
 # Phobia's website
 <br />
- >> http://www.phobia.ml << <br />
+ >> www.phobia.ml << <br />
